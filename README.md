@@ -1,4 +1,5 @@
 # Rust: Getting started
+__Note__: for unix systems you may need to install some extra libs as decribed on [this SO link](https://stackoverflow.com/questions/52445961/how-do-i-fix-the-rust-error-linker-cc-not-found-for-debian-on-windows-10).
 
 - actively developed.
 - to update: `rustup update`
